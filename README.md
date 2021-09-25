@@ -1,3 +1,3 @@
 # testing-repository-gh
 
-Testowy tekst do ćwiczenia comitów
+Testowy tekst do ćwiczenia comitów!
